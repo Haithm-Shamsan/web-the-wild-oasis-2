@@ -1,46 +1,70 @@
 ﻿# The_Wild_Oasis
 
-## About This Project
-I built this project as part of my learning and practice journey. It focuses on data access and persistence layer design, separation between business logic and UI, desktop UI interactions with forms and events, component-based frontend architecture while improving how I organize code and structure features.
+## Project Overview
+I built this project as part of my practical development journey. This README explains what I implemented, how the project is structured, and how to run it locally.
 
-## What I Implemented
-- I implemented data access and persistence layer design.
-- I implemented separation between business logic and UI.
-- I implemented desktop UI interactions with forms and events.
-- I implemented component-based frontend architecture.
-- I organized the project to keep logic clearer and easier to maintain.
+## What This Project Does
+- API/routing style request processing (where applicable).
+- Application bootstrap and startup flow.
 
 ## Tech Stack
 - C# / .NET
+- JavaScript / Node.js
+- React
+- Vite
+- Database/Persistence layer
 
-## Project Structure Highlights
-- Front-end/the-wild-oasis/README.md
-- Back-end/Api_WildOasis/Program.cs
-- Front-end/the-wild-oasis/src/App.jsx
-- Front-end/the-wild-oasis/src/main.jsx
-- Front-end/the-wild-oasis/index.html
-- Back-end/Api_WildOasis/.vs/ProjectEvaluation/api_wildoasis.metadata.v8.bin
-- Back-end/Api_WildOasis/Controllers/BookingsController.cs
-- Back-end/Api_WildOasis/Controllers/CabinsController.cs
-- Back-end/Api_WildOasis/Controllers/PeopleController.cs
-- Back-end/Api_WildOasis/Services/CabinService.cs
-- Back-end/Api_WildOasis/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
-- Back-end/Api_WildOasis/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
-- Back-end/Api_WildOasis/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
-- Back-end/Api_WildOasis/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
-- Back-end/Api_WildOasis/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+## Prerequisites
+- .NET SDK (recommended: latest LTS)
+- Visual Studio 2022 (for solution-based desktop projects)
+- Node.js 18+ and npm
+- Database engine/configuration used by the project (if applicable)
 
-## How To Run
-1. Open the `.sln` file in Visual Studio.
-2. Restore/build the solution.
-3. Run the startup project from Visual Studio.
+## Setup And Run
+1. Open terminal in the project root.
+2. Install dependencies: `npm install`
+3. Start development server: `npm run dev` (or `npm start` if configured).
+4. Build production bundle: `npm run build`.
+1. Open the `.sln` file in Visual Studio 2022.
+2. Restore and build the solution.
+3. Select startup project and run (`F5`).
 
-## What I Learned
-- I practiced building features end-to-end, from structure to execution.
-- I improved code organization and readability choices.
-- I strengthened my debugging and iteration workflow.
+## Module Breakdown (Based On Code)
+- Scanned on: 2026-03-26
+- Module entries listed: 25
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
+- $mf: Application entry point and bootstrap logic.
+- $mf: Request handling and endpoint coordination.
+- $mf: Request handling and endpoint coordination.
 
-## Next Improvements
-- Add deeper documentation for each module and workflow.
-- Add tests for the most critical flows.
-- Refine UX/UI and error handling where needed.
+## Screenshots
+- docs/screenshots/home.png (placeholder)
+- docs/screenshots/feature-1.png (placeholder)
+- docs/screenshots/feature-2.png (placeholder)
+- docs/screenshots/workflow.png (placeholder)
+
+## Future Improvements
+- Expand test coverage for critical modules.
+- Improve validation, error handling, and edge-case handling.
+- Add real screenshots and architecture diagram.
