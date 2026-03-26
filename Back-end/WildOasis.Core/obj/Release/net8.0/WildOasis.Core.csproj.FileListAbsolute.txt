@@ -1,0 +1,12 @@
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\bin\Release\net8.0\WildOasis.Core.deps.json
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\bin\Release\net8.0\WildOasis.Core.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\bin\Release\net8.0\WildOasis.Core.pdb
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.csproj.AssemblyReference.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.AssemblyInfoInputs.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.AssemblyInfo.cs
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\refint\WildOasis.Core.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\WildOasis.Core.pdb
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis.Core\obj\Release\net8.0\ref\WildOasis.Core.dll

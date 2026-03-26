@@ -1,0 +1,15 @@
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\bin\Debug\net8.0\WildOasis.Application.deps.json
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\bin\Debug\net8.0\WildOasis.Application.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\bin\Debug\net8.0\WildOasis.Application.pdb
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\bin\Debug\net8.0\WildOasis.Core.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\bin\Debug\net8.0\WildOasis.Core.pdb
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.csproj.AssemblyReference.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.AssemblyInfoInputs.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.AssemblyInfo.cs
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.csproj.CoreCompileInputs.cache
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasi.10B356E7.Up2Date
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\refint\WildOasis.Application.dll
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\WildOasis.Application.pdb
+D:\VSCodeProjects\The_Wild_Oasis\Back-end\WildOasis_Application\obj\Debug\net8.0\ref\WildOasis.Application.dll
